@@ -1,0 +1,36 @@
+{
+  "name": "connected-components",
+  "version": "0.0.0",
+  "description": "Finds connected components of an undirected graph",
+  "main": "cc.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "~2.12.3"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/connected-components.git"
+  },
+  "keywords": [
+    "connected",
+    "component",
+    "undirected",
+    "graph",
+    "vertex",
+    "label",
+    "edge"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/connected-components/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/connected-components"
+}
