@@ -1,6 +1,6 @@
 {
   "name": "connected-components",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Finds connected components of an undirected graph",
   "main": "cc.js",
   "directories": {
